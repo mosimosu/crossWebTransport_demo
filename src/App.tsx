@@ -1,5 +1,5 @@
 function App() {
-  const handleClick = () => window.open("https://www.google.com", "_blank");
+  const handleClick = () => window.open("/test", "_blank");
   return (
     <>
       <h1>Hello World</h1>
